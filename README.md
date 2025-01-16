@@ -1,6 +1,4 @@
-# movingstreaming-app
 
-<<<<<<< HEAD
 =======
 # play_lab
 
