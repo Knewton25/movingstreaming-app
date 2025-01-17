@@ -1,4 +1,3 @@
-# movingstreaming-app
 
 <<<<<<< HEAD
 =======
